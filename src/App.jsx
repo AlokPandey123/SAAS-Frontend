@@ -12,6 +12,7 @@ import ProfilePage from './pages/ProfilePage'
 import RegisterPage from './pages/RegisterPage'
 import './App.css'
 
+
 const router = createBrowserRouter([
   {
     path: '/',
